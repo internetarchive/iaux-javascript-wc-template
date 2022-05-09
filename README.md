@@ -1,3 +1,5 @@
+## Deprecated.  Please see https://github.com/internetarchive/iaux-typescript-wc-template
+
 [![Build Status](https://travis-ci.com/internetarchive/iaux-your-webcomponent.svg?branch=master)](https://travis-ci.com/internetarchive/iaux-your-webcomponent) [![codecov](https://codecov.io/gh/internetarchive/iaux-your-webcomponent/branch/master/graph/badge.svg)](https://codecov.io/gh/internetarchive/iaux-your-webcomponent)
 
 # Internet Archive Javascript WebComponent Template
